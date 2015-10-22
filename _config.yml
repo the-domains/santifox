@@ -1,0 +1,23 @@
+name: santifox
+favicon: null
+layout_spectrum: 0.5704015002120286
+typography_spectrum: 0.4100609114393592
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.46359891374595463
+  lightness: 0.9512426417786628
+  saturation: 0.6309037103783339
+  rhythmicContrast: 0.45862779882736504
+purpose: []
