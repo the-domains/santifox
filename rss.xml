@@ -4,8 +4,15 @@
         <description><![CDATA[Santi Fox - Visual Storyteller]]></description>
         <link>https://thegrid.ai/santifox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 11:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2015 11:07:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/santifox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://payload226.cargocollective.com/1/0/3626/6834366/portraits-v1-17.jpg">]]></description>
+            <link>https://thegrid.ai/santifox/4254c14d-9906-449b-bdf7-8179e8db2f84/index.html</link>
+            <guid isPermaLink="false">4254c14d-9906-449b-bdf7-8179e8db2f84</guid>
+            <pubDate>Sat, 07 Nov 2015 11:05:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://payload142.cargocollective.com/1/0/3626/5142957/nervo-santifoxcom-37_o.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://santifox.com/Elastinen-Super</link>
             <guid isPermaLink="false">b2353440-8e46-4509-9e4e-5b8661a70777</guid>
             <pubDate>Sat, 07 Nov 2015 11:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>https://thegrid.ai/santifox/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">2a8670ac-6e8b-418e-b8c2-20b135e82491</guid>
-            <pubDate>Thu, 22 Oct 2015 02:54:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
