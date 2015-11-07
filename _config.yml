@@ -1,6 +1,6 @@
 name: santifox
 favicon: null
-layout_spectrum: 0.5704015002120286
+layout_spectrum: 0.96455
 typography_spectrum: 0.4100609114393592
 title: Santi Fox - Visual Storyteller
 cta:
@@ -23,7 +23,7 @@ color:
     - '#c1743a'
     - '#181412'
   brandStrength: 0
-  lightness: 0.9512426417786628
-  saturation: 0.6309037103783339
-  rhythmicContrast: 0.45862779882736504
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
