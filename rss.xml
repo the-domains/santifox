@@ -4,15 +4,8 @@
         <description><![CDATA[Santi Fox - Visual Storyteller]]></description>
         <link>https://thegrid.ai/santifox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 03:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2015 03:25:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/santifox/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://payload158.cargocollective.com/1/0/3626/5464640/bradi-litti-1_o.jpg">]]></description>
-            <link>https://thegrid.ai/santifox/0b51577d-2067-458f-ab0f-2d3a637a217d/index.html</link>
-            <guid isPermaLink="false">0b51577d-2067-458f-ab0f-2d3a637a217d</guid>
-            <pubDate>Sat, 28 Nov 2015 03:23:11 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://payload369.cargocollective.com/1/0/3626/9694745/aliciakeys-34_683.jpg">]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.billboard.com/articles/columns/code/1554519/nervo-hold-on-exclusive-song-premiere</link>
             <guid isPermaLink="false">f00eab0a-97b9-4707-b75d-e92d2538409a</guid>
             <pubDate>Sat, 07 Nov 2015 11:05:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://payload226.cargocollective.com/1/0/3626/6834366/portraits-v1-14.jpg">]]></description>
+            <link>https://thegrid.ai/santifox/9946ce3d-1087-4d1b-9725-75dfa6144fa0/index.html</link>
+            <guid isPermaLink="false">9946ce3d-1087-4d1b-9725-75dfa6144fa0</guid>
+            <pubDate>Sat, 07 Nov 2015 11:05:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
