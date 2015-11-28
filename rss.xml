@@ -4,13 +4,20 @@
         <description><![CDATA[Santi Fox - Visual Storyteller]]></description>
         <link>https://thegrid.ai/santifox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 03:32:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2015 03:33:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/santifox/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://payload369.cargocollective.com/1/0/3626/9694708/jvg-2-santifoxcom-87_1365.jpg">]]></description>
             <link>https://thegrid.ai/santifox/84c4dc71-8901-429a-97c6-7ce841845348/index.html</link>
             <guid isPermaLink="false">84c4dc71-8901-429a-97c6-7ce841845348</guid>
+            <pubDate>Sat, 28 Nov 2015 03:31:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://payload369.cargocollective.com/1/0/3626/9694708/jvg-santifoxcom-22_2048.jpg">]]></description>
+            <link>https://thegrid.ai/santifox/ab5b28cf-fe3b-44be-aa7e-a11d7b11eb04/index.html</link>
+            <guid isPermaLink="false">ab5b28cf-fe3b-44be-aa7e-a11d7b11eb04</guid>
             <pubDate>Sat, 28 Nov 2015 03:31:11 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/santifox/46d8f483-400d-4c16-bb83-f74f35e0c18b/index.html</link>
             <guid isPermaLink="false">46d8f483-400d-4c16-bb83-f74f35e0c18b</guid>
             <pubDate>Sat, 28 Nov 2015 03:24:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://payload158.cargocollective.com/1/0/3626/5464640/bradi-fressi-1_o.jpg">]]></description>
-            <link>https://thegrid.ai/santifox/68804b8d-daef-4857-8a3a-7ffbaf56f7b4/index.html</link>
-            <guid isPermaLink="false">68804b8d-daef-4857-8a3a-7ffbaf56f7b4</guid>
-            <pubDate>Sat, 28 Nov 2015 03:23:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
