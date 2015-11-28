@@ -4,8 +4,15 @@
         <description><![CDATA[Santi Fox - Visual Storyteller]]></description>
         <link>https://thegrid.ai/santifox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 03:23:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Nov 2015 03:24:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/santifox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://payload158.cargocollective.com/1/0/3626/5465945/stefans-santifox-7_o.png">]]></description>
+            <link>https://thegrid.ai/santifox/7ce0edfc-df57-4a1d-a4da-bf43ef2a2ebe/index.html</link>
+            <guid isPermaLink="false">7ce0edfc-df57-4a1d-a4da-bf43ef2a2ebe</guid>
+            <pubDate>Sat, 28 Nov 2015 03:23:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://payload158.cargocollective.com/1/0/3626/5464640/bradi-kansi-1_o.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://payload226.cargocollective.com/1/0/3626/6834366/portraits-v1-12.jpg">]]></description>
             <link>https://thegrid.ai/santifox/304c61d2-50bf-45b2-a26f-fa63ea48e794/index.html</link>
             <guid isPermaLink="false">304c61d2-50bf-45b2-a26f-fa63ea48e794</guid>
-            <pubDate>Sat, 07 Nov 2015 11:05:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://payload226.cargocollective.com/1/0/3626/6834366/portraits-v1-1.jpg">]]></description>
-            <link>https://thegrid.ai/santifox/32222b0c-a9c9-4e5b-babf-ea1c0b5485f4/index.html</link>
-            <guid isPermaLink="false">32222b0c-a9c9-4e5b-babf-ea1c0b5485f4</guid>
             <pubDate>Sat, 07 Nov 2015 11:05:40 GMT</pubDate>
         </item>
     </channel>
