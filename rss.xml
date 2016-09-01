@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Santi Fox - Visual Storyteller]]></title>
-        <description><![CDATA[Santi Fox - Visual Storyteller]]></description>
+        <title><![CDATA[The Visual Storyteller and Photographer]]></title>
+        <description><![CDATA[The Visual Storyteller and Photographer]]></description>
         <link>https://thegrid.ai/santifox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 03:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 02:55:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/santifox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://payload369.cargocollective.com/1/0/3626/9694745/aliciakeys-34_683.jpg">]]></description>
+            <link>http://santifox.com/filter/photography/Alicia-Keys</link>
+            <guid isPermaLink="false">15aab017-895e-4ab3-aa52-dbfdceb7426f</guid>
+            <pubDate>Tue, 30 Aug 2016 02:55:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://payload369.cargocollective.com/1/0/3626/9694708/jvg-2-santifoxcom-87_1365.jpg">]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://payload312.cargocollective.com/1/0/3626/8552050/10548286_777937465582790_5291925877919448868_o_o.jpg">]]></description>
             <link>https://thegrid.ai/santifox/917b6e9c-78ef-4587-9999-2507db6045c4/index.html</link>
             <guid isPermaLink="false">917b6e9c-78ef-4587-9999-2507db6045c4</guid>
-            <pubDate>Sat, 28 Nov 2015 03:24:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://payload312.cargocollective.com/1/0/3626/8552050/10333539_777934675583069_7316249437631202329_o_o.jpg">]]></description>
-            <link>https://thegrid.ai/santifox/46d8f483-400d-4c16-bb83-f74f35e0c18b/index.html</link>
-            <guid isPermaLink="false">46d8f483-400d-4c16-bb83-f74f35e0c18b</guid>
             <pubDate>Sat, 28 Nov 2015 03:24:07 GMT</pubDate>
         </item>
     </channel>
