@@ -1,4 +1,4 @@
-name: santifox
+name: Santi Fox
 favicon: null
 layout_spectrum: 0.4480287
 typography_spectrum: 0.3154122
@@ -35,7 +35,7 @@ color:
     - '#92c8e1'
     - '#323232'
   brandStrength: 0
-  lightness: 1
-  saturation: 0.02867384
-  rhythmicContrast: 0.7275985
+  lightness: 0.75
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
